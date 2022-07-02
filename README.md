@@ -1,2 +1,2 @@
 # Javascript / Saat ve Karsılama
-Javascript Saat ve Karşılama
+Javascript Saat ve Karşılama Sayfası
